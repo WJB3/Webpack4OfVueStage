@@ -3,7 +3,7 @@
 
 &nbsp;
 
-　　**欢迎大家来到技术宝的掘金世界,您的star是我写文章最大的动力！[GitHub地址]https://github.com/WJB3/Webpack4OfVueStage)**
+　　**欢迎大家来到技术宝的掘金世界,您的star是我写文章最大的动力！[GitHub地址](https://github.com/WJB3/Webpack4OfVueStage)**
 　　
 &nbsp;
 
