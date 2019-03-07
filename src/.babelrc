@@ -1,0 +1,19 @@
+{
+    "presets":[
+        ["@babel/preset-env", {
+            "modules": false,
+            "targets": {
+              "browsers": ["> 1%", "last 2 versions", "ie >= 10"]
+            },
+            "useBuiltIns": "usage"
+        }],
+        "@babel/preset-react"
+    ],
+    "plugins":[
+        ["@babel/plugin-proposal-decorators", { "legacy": true }],
+        ["@babel/plugin-proposal-class-properties",{"loose":true}],
+        "@babel/plugin-transform-runtime",
+        "@babel/plugin-proposal-function-bind",
+        "@babel/plugin-syntax-dynamic-import"
+    ]
+}
