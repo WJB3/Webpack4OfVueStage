@@ -1,10 +1,9 @@
-# Webpack4OfVueStage
 >Created By **JishuBao** on **2019-03-06 12:38:22**  
 >Recently revised in **2019-03-08 12:38:22**
 
 &nbsp;
 
-　　**欢迎大家来到技术宝的掘金世界,您的star是我写文章最大的动力！[GitHub地址](https://github.com/WJB2/Webpack4OfVueStage)**
+　　**欢迎大家来到技术宝的掘金世界,您的star是我写文章最大的动力！[GitHub地址]https://github.com/WJB3/Webpack4OfVueStage)**
 　　
 &nbsp;
 
@@ -940,6 +939,6 @@ npm install autoprefixer --save-dev
 
 **如果只执行一次构建，以上阶段将会按照顺序各执行一次。但在开启监听模式下，流程将变为如下：**
 
-**如果你觉得我的文章还不错的话，可以给个star哦~，[GitHub地址](https://github.com/WJB2/Webpack4OfVueStage)**
+**如果你觉得我的文章还不错的话，可以给个star哦~，[GitHub地址](https://github.com/WJB3/Webpack4OfVueStage)**
 
 **下一步计划是用<font color=skyblue>Vue-router+Vuex+Vant</font>写一个简易demo**
