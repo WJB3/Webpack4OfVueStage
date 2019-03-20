@@ -62,7 +62,7 @@ module.exports=merge(baseWebpackConfig,{
         ]
     },
     plugins:[
-        new CleanWebpackPlugin(['dist'],{root:path.resolve(__dirname,'../'),verbose:true}),//每次打包前清除dist
+        new CleanWebpackPlugin({}),//每次打包前清除dist
         new HtmlWebpackPlugin({
             //将目录下的index.html引进生成的dist中的index.html
             template:'src/public/index.html',
